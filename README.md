@@ -1,4 +1,4 @@
-# ESP32_BLE_iTAG_press_detection
+# ESP32 BLE iTAG press detection
 
 sketch allows: 
 
