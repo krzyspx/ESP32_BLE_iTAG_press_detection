@@ -1,5 +1,7 @@
 # ESP32_BLE_iTAG_press_detection
+
 sketch allows: 
+
 automatically search for active iTAG (only one at a time)
 
 connect to iTAG with the "Press Key" service "ffe0"
